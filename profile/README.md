@@ -1,13 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyber-Dream-Amelia/.github/main/logo-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyber-Dream-Amelia/.github/main/logo-dark.svg">
-  <img alt="Amelia Logo">
-</picture><br>
 
-Your personal security assistant made for your need:
+<img src="https://raw.githubusercontent.com/Amelia-Lux/.github/main/profile.jpg" width="230" align="left">
 
-- personal 👩‍💻
-- professional 💼 
+Next station is Shibuya 🚉
 
-<br>
-Made with ❤️ 
+Wait wtf ?
